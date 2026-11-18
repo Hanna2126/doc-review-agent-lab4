@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+output/_watch_demo/
+output/_timing.png
+~$*.docx
+截图/_crop/

@@ -1,0 +1,11 @@
+{
+  "trials": 20000,
+  "keyword_count": 8,
+  "doc_token_length": 94,
+  "threshold": 0.5,
+  "mean_coverage": 0.7314,
+  "std_coverage": 0.1538,
+  "p05": 0.5,
+  "p95": 1.0,
+  "pass_probability": 0.9669
+}
